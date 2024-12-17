@@ -1,0 +1,2 @@
+# AllureReport
+ Allure report Demo
